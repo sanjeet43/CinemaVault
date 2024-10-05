@@ -1,4 +1,4 @@
-# Movie Guide App
+# CinemaVault: A Movie Guide App
 
 ## Overview
 
